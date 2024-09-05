@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoAllVoyaje/1.0.0": {
+        "runtime": {
+          "ProjetoAllVoyaje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoAllVoyaje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
